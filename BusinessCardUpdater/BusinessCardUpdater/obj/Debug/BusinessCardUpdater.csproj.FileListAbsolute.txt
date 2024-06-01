@@ -1,0 +1,10 @@
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\obj\Debug\BusinessCardUpdater.csproj.AssemblyReference.cache
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\obj\Debug\BusinessCardUpdater.Form1.resources
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\obj\Debug\BusinessCardUpdater.Properties.Resources.resources
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\obj\Debug\BusinessCardUpdater.csproj.GenerateResource.cache
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\obj\Debug\BusinessCardUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\bin\Debug\BusinessCardUpdater.exe.config
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\bin\Debug\BusinessCardUpdater.exe
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\bin\Debug\BusinessCardUpdater.pdb
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\obj\Debug\BusinessCardUpdater.exe
+C:\Users\Bohdan\source\repos\BusinessCardUpdater\BusinessCardUpdater\obj\Debug\BusinessCardUpdater.pdb
